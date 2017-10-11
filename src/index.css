@@ -24,3 +24,18 @@ footer {
 .page-footer {
   padding-bottom: 20px;
 }
+
+.cityName {
+  text-transform: capitalize;
+  margin-top: 30%;
+}
+
+@media (max-width: 666px) {
+  .cityName {
+    margin-top: 50%;
+  }
+}
+
+.cityData > h3, .cityData > h5 {
+  color: #666;
+}

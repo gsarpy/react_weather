@@ -1,4 +1,5 @@
 import 'materialize-css/dist/css/materialize.min.css';
+import './assets/css/weather-icons.css';
 
 import React, { Component } from 'react';
 import Header from './views/layout/Header';
